@@ -1,8 +1,8 @@
 # 📝 Blog-api-project
 
 This is a basic blog application built with **Node.js** and **Express.js**, using **EJS** for templating. It allows users to view and edit blog posts via a simple web interface. The project is divided into two key files:  
-- `server.js` handles **API requests**  
-- `index.js` handles **responses and core logic**  
+- `server.js` makes **API requests**  
+- `index.js` handles **API requests and core logic**  
 
 > ⚠️ Note: Both `server.js` and `index.js` must be running for the app to work.
 
